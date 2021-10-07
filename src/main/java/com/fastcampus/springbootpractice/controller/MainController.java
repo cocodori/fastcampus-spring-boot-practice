@@ -1,6 +1,6 @@
-package com.springpractice.controller;
+package com.fastcampus.springbootpractice.controller;
 
-import com.springpractice.service.SortService;
+import com.fastcampus.springbootpractice.service.SortService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
